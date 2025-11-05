@@ -1,12 +1,6 @@
-<<<<<<< HEAD
-import java.util.ArrayList;//
-import java.util.Scanner;
-//
-=======
 import java.util.ArrayList;
 import java.util.Scanner;//
 
->>>>>>> branch 'master' of https://github.com/liemdahan/TAR2.git
 public class TestThreadCheckArray {
 	public static void main(String[] args) {
 		try (Scanner input = new Scanner(System.in)) {
